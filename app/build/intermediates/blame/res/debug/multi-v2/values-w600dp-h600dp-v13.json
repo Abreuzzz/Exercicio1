@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Claudio\\Downloads\\Exerccio1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-h600dp-v13\\values-w600dp-h600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Claudio\\Downloads\\Exerccio1\\app\\src\\main\\res\\values-w600dp-h600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "96,56",
+                        "endColumns": "41,39",
+                        "endOffsets": "133,91"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,39",
+                        "endOffsets": "92,132"
+                    }
+                }
+            ]
+        }
+    ]
+}

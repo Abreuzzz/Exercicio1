@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\1cdd9fbc2035607fd261b88de926a7b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\8addbc8d3429cd0e63c53c4ebb9ff7d2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\56e448ac8f2090d6c37e58e110da91a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aebd792159fabef1e9561ca171f87539\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\7a226e37dedc61a3884184ee754de018\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6cba3ef843b434aad019b418c6068a4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\0340d60cc8505686770b2f195ed70696\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\ed13691393cb5f9cb37f6d7b204449dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\f4c6846b12139a41a0c5b99bbd693af5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\d3c9f0e47726a4806480c41f6dbcc9bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\768be776c9c160feef1e0548f8b82b97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\adda627d6df69e9568eb21efe7aea4fd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6d385019b998818da3e89fe9f9a85440\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\4556bd55b6c753ffe5b9dc764b78e552\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\473cf92f671aaae68f5a4ba421823d23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aa6f137fee84bcee2aa8f995f5a7f7c6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6bdf52abc9cd2319015d39916855de7f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\067c8b6ba62358715f6f69d87fb99b71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\5fe73202ff0debdc589fbbbc6cf28915\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\016f928583a98d37875ebbe72e0d6fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\f116bf493e7c606788feddc5259c679a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\760a3e19a1a19937defc280027f192d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\237ebdd2a0879e3224a3f7c74d6d9a80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\87d12e73439f26e02f40ca877df0b5ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\9935710ec84ffeaca1bbf90e23501bda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\4df6f191bbf6dd91057a919bfeed0837\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\ad615f5daa7af6968debcf29905427ca\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\8addbc8d3429cd0e63c53c4ebb9ff7d2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\8addbc8d3429cd0e63c53c4ebb9ff7d2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aa6f137fee84bcee2aa8f995f5a7f7c6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aa6f137fee84bcee2aa8f995f5a7f7c6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6bdf52abc9cd2319015d39916855de7f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6bdf52abc9cd2319015d39916855de7f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aa6f137fee84bcee2aa8f995f5a7f7c6\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:9:9-41
+	android:debuggable
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:6:9-34
+	android:roundIcon
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.e.exerccio1.MainActivity
+ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\1cdd9fbc2035607fd261b88de926a7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\1cdd9fbc2035607fd261b88de926a7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\8addbc8d3429cd0e63c53c4ebb9ff7d2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\8addbc8d3429cd0e63c53c4ebb9ff7d2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\56e448ac8f2090d6c37e58e110da91a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\56e448ac8f2090d6c37e58e110da91a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aebd792159fabef1e9561ca171f87539\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aebd792159fabef1e9561ca171f87539\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\7a226e37dedc61a3884184ee754de018\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\7a226e37dedc61a3884184ee754de018\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6cba3ef843b434aad019b418c6068a4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6cba3ef843b434aad019b418c6068a4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\0340d60cc8505686770b2f195ed70696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\0340d60cc8505686770b2f195ed70696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\ed13691393cb5f9cb37f6d7b204449dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\ed13691393cb5f9cb37f6d7b204449dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\f4c6846b12139a41a0c5b99bbd693af5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\f4c6846b12139a41a0c5b99bbd693af5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\d3c9f0e47726a4806480c41f6dbcc9bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\d3c9f0e47726a4806480c41f6dbcc9bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\768be776c9c160feef1e0548f8b82b97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\768be776c9c160feef1e0548f8b82b97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\adda627d6df69e9568eb21efe7aea4fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\adda627d6df69e9568eb21efe7aea4fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6d385019b998818da3e89fe9f9a85440\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6d385019b998818da3e89fe9f9a85440\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\4556bd55b6c753ffe5b9dc764b78e552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\4556bd55b6c753ffe5b9dc764b78e552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\473cf92f671aaae68f5a4ba421823d23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\473cf92f671aaae68f5a4ba421823d23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aa6f137fee84bcee2aa8f995f5a7f7c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\aa6f137fee84bcee2aa8f995f5a7f7c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6bdf52abc9cd2319015d39916855de7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\6bdf52abc9cd2319015d39916855de7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\067c8b6ba62358715f6f69d87fb99b71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\067c8b6ba62358715f6f69d87fb99b71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\5fe73202ff0debdc589fbbbc6cf28915\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\5fe73202ff0debdc589fbbbc6cf28915\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\016f928583a98d37875ebbe72e0d6fa2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\016f928583a98d37875ebbe72e0d6fa2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\f116bf493e7c606788feddc5259c679a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\f116bf493e7c606788feddc5259c679a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\760a3e19a1a19937defc280027f192d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\760a3e19a1a19937defc280027f192d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\237ebdd2a0879e3224a3f7c74d6d9a80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\237ebdd2a0879e3224a3f7c74d6d9a80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\87d12e73439f26e02f40ca877df0b5ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\87d12e73439f26e02f40ca877df0b5ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\9935710ec84ffeaca1bbf90e23501bda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\9935710ec84ffeaca1bbf90e23501bda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\4df6f191bbf6dd91057a919bfeed0837\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\4df6f191bbf6dd91057a919bfeed0837\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\ad615f5daa7af6968debcf29905427ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Claudio\.gradle\caches\transforms-2\files-2.1\ad615f5daa7af6968debcf29905427ca\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Claudio\Downloads\Exerccio1\app\src\main\AndroidManifest.xml

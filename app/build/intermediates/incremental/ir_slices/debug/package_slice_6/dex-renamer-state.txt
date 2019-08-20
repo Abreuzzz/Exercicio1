@@ -1,0 +1,4 @@
+#Sun Aug 18 18:02:18 BRT 2019
+base.0=C\:\\Users\\Claudio\\Downloads\\Exerccio1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
